@@ -2,4 +2,4 @@
 
 A project to add new alternate costumes to Smash 3DS.
 
-All files should go under model/(character name)/body/(whichever costume you want to replace)/
+All files should go under model/fighter/(character name)/body/(whichever costume you want to replace)/
